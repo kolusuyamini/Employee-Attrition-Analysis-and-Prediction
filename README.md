@@ -39,6 +39,11 @@ Target Variable:
 - Random Forest Classifier
 
 ---
+## Results
+
+- Built and evaluated Logistic Regression and Random Forest models.
+- Compared the performance of both models using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
+- Random Forest performed better in identifying important features affecting employee attrition.
 
 ## Technologies Used
 
@@ -61,12 +66,9 @@ Target Variable:
 
 ---
 
-## Future Improvements
+## Conclusion
 
-- Hyperparameter Tuning
-- SMOTE for Imbalanced Data
-- XGBoost
-- Model Deployment using Streamlit
+This project successfully analyzed employee attrition using machine learning techniques. Exploratory Data Analysis identified important patterns, while Logistic Regression and Random Forest models were used to predict employee attrition. Feature Importance analysis showed that Monthly Income, OverTime, and Age were among the most influential factors. The project demonstrates how machine learning can help organizations identify employees who are at a higher risk of leaving and support better HR decision-making.
 
 ---
 
